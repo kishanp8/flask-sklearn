@@ -24,6 +24,7 @@ Passing tests that are displayed after running the make all command from the Mak
 Output of a test run
 
 Successful deploy of the project in Azure Pipelines. Note the official documentation should be referred to and double checked as you setup CI/CD.
+![alt text] (https://github.com/kishanp8/flask-sklearn/blob/main/deployment_success.PNG)
 
 Running Azure App Service from Azure Pipelines automatic deployment
 
