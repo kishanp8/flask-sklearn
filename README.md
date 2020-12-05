@@ -13,10 +13,13 @@ A link to a spreadsheet that includes the original and final project plan: https
 Instructions
 
 Project running on Azure App Service
+https://flask-sklearn.azurewebsites.net/
 
 Project cloned into Azure Cloud Shell
+https://github.com/kishanp8/flask-sklearn
 
 Passing tests that are displayed after running the make all command from the Makefile
+![alt text](https://github.com/kishanp8/azure-ci-cd-project/blob/main/passes_test.PNG)
 
 Output of a test run
 
